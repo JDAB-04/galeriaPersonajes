@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Arthur Morgan", "image": "/src/assets/arthur.png" },
+  { "id": 2, "name": "Jhon Marston", "image": "/src/assets/jhon.png" },
+  { "id": 3, "name": "Dutch Van Der Linde", "image": "/src/assets/dutch.png" },
+  { "id": 4, "name": "Hosea Matthews", "image": "/src/assets/hosea.png" },
+  { "id": 5, "name": "Josiah Trelawny", "image": "/src/assets/extraño.png" },
+  { "id": 6, "name": "Jack Marston", "image": "/src/assets/jack.png" },
+  { "id": 7, "name": "Abigail Marston", "image": "/src/assets/abigail.png" },
+  { "id": 8, "name": "Karen Jones", "image": "/src/assets/karen.png" },
+  { "id": 9, "name": "Molly O'shea", "image": "/src/assets/Molly.png" },
+  { "id": 10, "name": "Sadie Adler", "image": "/src/assets/sadie.png" }
+]
